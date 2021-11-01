@@ -10,5 +10,5 @@ for (let name of days.keys()) {
 	console.log(name);
 }
 days.forEach((value, key) => {
-	console.log(`Дунь - ${key}, Месяц - ${value}`);
+	console.log(`День - ${key}, Месяц - ${value}`);
 });
